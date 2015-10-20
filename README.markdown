@@ -1,3 +1,3 @@
 # burrittdip.com
 
-[http://burrittdip.com](burrittdip.com) website!
+[burrittdip.com](http://burrittdip.com) website!
